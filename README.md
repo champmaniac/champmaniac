@@ -119,9 +119,6 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 
 <br/>
 
-<p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
-
-
 [twitter]: https://twitter.com/prantik1e
 [instagram]: https://www.instagram.com/mukherjee_prantikk/
 [linkedin]: https://www.linkedin.com/in/prantikmukherjee/
