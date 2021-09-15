@@ -106,8 +106,10 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 </p>
 <br />
 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champmaniac&theme=algolia&hide_border=true" alt="champmaniac" />
+</p>
 
-  
 ## ⭐ Starred Repository
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=ChatKaro&show_owner=true&theme=algolia)](https://github.com/champmaniac/ChatKaro)
