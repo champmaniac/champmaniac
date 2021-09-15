@@ -106,9 +106,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 </p>
 <br />
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champmaniac&theme=algolia&hide_border=true" alt="champmaniac" />
-</p>
+
   
 ## ⭐ Starred Repository
 
