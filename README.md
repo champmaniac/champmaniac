@@ -6,7 +6,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prantikmukherjee)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="champmaniac" /> </p>
-
+<p align="center">
+<img align="left" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="300"/>
+</p>
 Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment.Love Problem Solving & Learn New Algorithms.
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
@@ -124,6 +126,4 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 [linkedin]: https://www.linkedin.com/in/prantikmukherjee/
 [facebook]: https://www.facebook.com/Mr.Saheb/
 
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="300"/>
-</p>
+
