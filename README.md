@@ -123,3 +123,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 [instagram]: https://www.instagram.com/mukherjee_prantikk/
 [linkedin]: https://www.linkedin.com/in/prantikmukherjee/
 [facebook]: https://www.facebook.com/Mr.Saheb/
+
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="300"/>
+</p>
