@@ -114,7 +114,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=ChatKaro&show_owner=true&theme=algolia)](https://github.com/champmaniac/ChatKaro)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=covid19statstracker&show_owner=true&theme=algolia)](https://github.com/champmaniac/covid19statstracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=Online-Bakery-System&show_owner=true&theme=algolia)](https://github.com/champmaniac/Online-Bakery-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=CryptoCrowd&show_owner=true&theme=algolia)](https://github.com/champmaniac/CryptoCrowd)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=LeetcodeProblemSolutions&show_owner=true&theme=algolia)](https://github.com/champmaniac/LeetcodeProblemSolutions)
 
 <br/>
