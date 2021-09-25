@@ -15,6 +15,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, Django, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I am on Laptop more than half of the day.
+- Check out my [Resume](https://drive.google.com/file/d/18in0MaSZPmQ3Nd50B-rPrazfBGZK_ee7/view?usp=sharing) 
 
 ## 🤝 Connect with me
 
