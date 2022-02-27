@@ -72,11 +72,6 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 </p>
 
 
-### 👉 Unit Testing
-<p>
-<img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-</p>
-
 
 ### 👉 Version Control
 <p>
@@ -99,9 +94,6 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 
 ## ⚙️ Stats
 
-<p align="center"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=champmaniac&show-avatar=true" alt="champmaniac codersrank stat" /></p>
-<br />
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=champmaniac&show_icons=true&locale=en&theme=algolia" alt="champmaniac" />
 </p>
@@ -110,13 +102,6 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champmaniac&theme=algolia&hide_border=true" alt="champmaniac" />
 </p>
-
-## ⭐ Starred Repository
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=ChatKaro&show_owner=true&theme=algolia)](https://github.com/champmaniac/ChatKaro)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=covid19statstracker&show_owner=true&theme=algolia)](https://github.com/champmaniac/covid19statstracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=CryptoCrowd&show_owner=true&theme=algolia)](https://github.com/champmaniac/CryptoCrowd)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=champmaniac&repo=SolvingLeetCodeProblems&show_owner=true&theme=algolia)](https://github.com/champmaniac/SolvingLeetCodeProblems)
 
 <br/>
 
