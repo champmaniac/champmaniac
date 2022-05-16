@@ -11,7 +11,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 & its frameworks, libraries and enjoys to customize all of the development environment.Love Problem Solving & Learn New Algorithms.
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
+- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS & NodeJS. 🧡
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, Django, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I am on Laptop more than half of the day.
