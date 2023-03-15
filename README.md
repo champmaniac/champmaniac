@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=champmaniac&linkedin=prantikmukherjee&twitter=prantik1e&description=Former%20SWE%20Intern%20@KoinX%20">
+<img src="https://github-hero-readme.vercel.app/api?username=champmaniac&linkedin=prantikmukherjee&twitter=prantik1e&description=%20SDE%20Intern%20@PillowDeFi%20">
 
 <br>
 
@@ -7,12 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="champmaniac" /> </p>
 
-Former SWE Intern @KoinX.
+SDE Intern @PillowDeFi.
 A Full Stack Web Developer using JavaScript Technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment.Love Problem Solving & Learn New Algorithms.
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS & NodeJS. 🧡
+- 🌱 I’m a JavaScript enthusiast and currently all into React-Native & NodeJS. 🧡
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, Django, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I am on Laptop more than half of the day.
