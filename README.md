@@ -25,7 +25,7 @@ A Full Stack Web Developer using JavaScript Technologies. Super nerd who loves J
 <a href="https://medium.com/@champmaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@champmaniac" height="30" width="40" /></a>
 <a href="https://discord.gg/Prantik Mukherjee#3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a>
 <a href="https://fb.com/Mr.Saheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr.Saheb" height="30" width="40" /></a>
-<a href="https://instagram.com/mukherjee_prantikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukherjee_prantikk" height="30" width="40" /></a>
+<a href="https://instagram.com/_prantikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prantikk" height="30" width="40" /></a>
 <a href="https://devfolio.co/@champmaniac">
 <kbd>
 <img align="centre" alt="Prantik's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
